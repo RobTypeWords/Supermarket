@@ -1,4 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 !/.idea/
 !/SuperMarket.iml
-.out/production/SuperMarket
+/out/production/SuperMarket
